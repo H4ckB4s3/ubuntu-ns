@@ -1,4 +1,4 @@
-# Handshake (HNS) Nameserver Setup for Ubuntu
+HNS Setup for Ubuntu
 
 This guide configures your Ubuntu system to resolve `.` (root) and Handshake top-level domains (TLDs) by adding the official HNS nameservers.
 
