@@ -2,7 +2,7 @@
 
 This guide configures your Ubuntu system to resolve `.` (root) and Handshake top-level domains (TLDs) by adding the official HNS nameservers.
 
-## One-liner (Quick Setup)
+## Quick Setup
 
 Run this command as root (or with `sudo`):
 
