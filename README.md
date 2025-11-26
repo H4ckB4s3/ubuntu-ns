@@ -4,7 +4,7 @@ This guide configures your Ubuntu system to resolve `.` (root) and Handshake top
 
 ## Quick Setup
 
-Run this command as root (or with `sudo`):
+Run this command:
 
 ```bash
 sudo bash -c 'cat > /etc/resolv.conf << EOF
